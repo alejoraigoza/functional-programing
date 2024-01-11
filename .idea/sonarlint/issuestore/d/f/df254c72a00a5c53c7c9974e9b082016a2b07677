@@ -1,0 +1,45 @@
+
+j
+java:S1192"HDefine a constant instead of duplicating this literal "calculi" 3 times.(Æ•¾”ùÿÿÿÿ8âüÏË1
+e
+java:S1192"HDefine a constant instead of duplicating this literal "herrera" 8 times.(œƒŠ«8ãüÏË1
+]
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(â‰·Œ8¨ıÏË1
+G	java:S106"+Replace this use of System.out by a logger.(â‰·Œ8©ıÏË1
+b
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(Ğí—ƒıÿÿÿÿ8©ıÏË1
+L	java:S106"+Replace this use of System.out by a logger.(Ğí—ƒıÿÿÿÿ8©ıÏË1
+F	java:S106"+Replace this use of System.out by a logger.(ßÄ¥/8ªıÏË1
+]
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(›ì´¹8«ıÏË1
+G	java:S106"+Replace this use of System.out by a logger.(›ì´¹8«ıÏË1
+G	java:S106"+Replace this use of System.out by a logger.(è•Æ8«ıÏË1
+L	java:S106 "+Replace this use of System.out by a logger.(‚š¶¾ùÿÿÿÿ8¬ıÏË1
+L	java:S106""+Replace this use of System.out by a logger.(‚øíİøÿÿÿÿ8¬ıÏË1
+G	java:S106#"+Replace this use of System.out by a logger.(á¡©8¬ıÏË1
+L	java:S106&"+Replace this use of System.out by a logger.(‹¹¬èùÿÿÿÿ8­ıÏË1
+L	java:S106'"+Replace this use of System.out by a logger.(®Ö™éùÿÿÿÿ8­ıÏË1
+G	java:S106)"+Replace this use of System.out by a logger.(íîÖò8®ıÏË1
+L	java:S106*"+Replace this use of System.out by a logger.(ä¶²±ÿÿÿÿÿ8®ıÏË1
+L	java:S106,"+Replace this use of System.out by a logger.(÷ê¬…øÿÿÿÿ8¯ıÏË1
+]
+java:S1612."@Replace this lambda with method reference 'System.out::println'.(›ì´¹8°ıÏË1
+G	java:S106."+Replace this use of System.out by a logger.(›ì´¹8°ıÏË1
+L	java:S1060"+Replace this use of System.out by a logger.(Ì­ªúÿÿÿÿ8°ıÏË1
+]
+java:S16122"@Replace this lambda with method reference 'System.out::println'.(›ì´¹8±ıÏË1
+G	java:S1062"+Replace this use of System.out by a logger.(›ì´¹8±ıÏË1
+L	java:S1064"+Replace this use of System.out by a logger.(ü´Üÿÿÿÿÿ8±ıÏË1
+L	java:S1066"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8²ıÏË1
+F	java:S106:"+Replace this use of System.out by a logger.(ôğâu8²ıÏË1
+G	java:S106<"+Replace this use of System.out by a logger.(Ğø 8²ıÏË1
+L	java:S106A"+Replace this use of System.out by a logger.(í Âõøÿÿÿÿ8³ıÏË1
+G	java:S106E"+Replace this use of System.out by a logger.(‡´µÓ8³ıÏË1
+Q
+java:S3631G"/Use "Arrays.stream" instead of "Arrays.asList".(¹ååŒÿÿÿÿÿ8´ıÏË1
+b
+java:S1612L"@Replace this lambda with method reference 'System.out::println'.(ß¨¶ øÿÿÿÿ8´ıÏË1
+L	java:S106L"+Replace this use of System.out by a logger.(ß¨¶ øÿÿÿÿ8´ıÏË1
+b
+java:S1612S"@Replace this lambda with method reference 'System.out::println'.(ş¢‚øÿÿÿÿ8µıÏË1
+L	java:S106S"+Replace this use of System.out by a logger.(ş¢‚øÿÿÿÿ8¶ıÏË1

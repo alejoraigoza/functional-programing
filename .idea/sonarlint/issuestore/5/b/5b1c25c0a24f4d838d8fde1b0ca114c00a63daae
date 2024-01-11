@@ -1,0 +1,19 @@
+
+s
+java:S1192"QDefine a constant instead of duplicating this literal "Steven Spielberg" 3 times.(§Ë›´ùÿÿÿÿ8°õà­Ï1
+r	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÄÚƒúÿÿÿÿ8°õà­Ï1
+L	java:S106"+Replace this use of System.out by a logger.(ÙàÎ¬ùÿÿÿÿ8¾õà­Ï1
+G	java:S106"+Replace this use of System.out by a logger.(‡ÏÖª8¿õà­Ï1
+L	java:S106"+Replace this use of System.out by a logger.(—Ûùÿÿÿÿ8¿õà­Ï1
+L	java:S106!"+Replace this use of System.out by a logger.(³ÙÀ›ıÿÿÿÿ8¿õà­Ï1
+L	java:S106$"+Replace this use of System.out by a logger.(Ææ¡úÿÿÿÿ8Àõà­Ï1
+L	java:S106+"+Replace this use of System.out by a logger.(Ùºışÿÿÿÿ8Áõà­Ï1
+G	java:S106-"+Replace this use of System.out by a logger.(’±¾¦8Áõà­Ï1
+L	java:S1065"+Replace this use of System.out by a logger.(è×²Ñıÿÿÿÿ8Âõà­Ï1
+H
+java:S2201:"+The return value of "collect" must be used.(ª™¨¹8Âõà­Ï1
+G	java:S106;"+Replace this use of System.out by a logger.(§ÄÛğ8Âõà­Ï1
+L	java:S106@"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8Ãõà­Ï1
+b
+java:S1612G"@Replace this lambda with method reference 'System.out::println'.(ïø÷ÿÿÿÿÿ8Ãõà­Ï1
+L	java:S106G"+Replace this use of System.out by a logger.(ïø÷ÿÿÿÿÿ8Äõà­Ï1

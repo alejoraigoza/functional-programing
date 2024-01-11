@@ -1,0 +1,14 @@
+
+s
+java:S1192"QDefine a constant instead of duplicating this literal "Steven Spielberg" 3 times.(§Ë›´ùÿÿÿÿ8¶Á¯Ï1
+r	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÄÚƒúÿÿÿÿ8·Á¯Ï1
+L	java:S106"+Replace this use of System.out by a logger.(ÙàÎ¬ùÿÿÿÿ8ÎÁ¯Ï1
+G	java:S106"+Replace this use of System.out by a logger.(‡ÏÖª8ĞÁ¯Ï1
+L	java:S106"+Replace this use of System.out by a logger.(—Ûùÿÿÿÿ8ĞÁ¯Ï1
+L	java:S106"+Replace this use of System.out by a logger.(³ÙÀ›ıÿÿÿÿ8ÑÁ¯Ï1
+L	java:S106!"+Replace this use of System.out by a logger.(Ææ¡úÿÿÿÿ8ÑÁ¯Ï1
+L	java:S106("+Replace this use of System.out by a logger.(Ùºışÿÿÿÿ8ÒÁ¯Ï1
+G	java:S106*"+Replace this use of System.out by a logger.(’±¾¦8ÒÁ¯Ï1
+L	java:S1060"+Replace this use of System.out by a logger.(è×²Ñıÿÿÿÿ8ÓÁ¯Ï1
+L	java:S1062"+Replace this use of System.out by a logger.(¦´ëùùÿÿÿÿ8ÓÁ¯Ï1
+G	java:S1066"+Replace this use of System.out by a logger.(’²Â¾8ÔÁ¯Ï1

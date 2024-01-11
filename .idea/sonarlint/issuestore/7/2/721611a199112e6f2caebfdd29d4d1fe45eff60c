@@ -1,0 +1,29 @@
+
+r	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹§Óüøÿÿÿÿ8„„æäË1
+r	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹§Óüøÿÿÿÿ8„„æäË1
+L	java:S106"+Replace this use of System.out by a logger.(†¤Û”øÿÿÿÿ8±„æäË1
+L	java:S106"+Replace this use of System.out by a logger.(Ù›÷—ùÿÿÿÿ8³„æäË1
+L	java:S106"+Replace this use of System.out by a logger.(¤úçıÿÿÿÿ8´„æäË1
+L	java:S106"+Replace this use of System.out by a logger.(’Öäÿÿÿÿÿ8´„æäË1
+L	java:S106$"+Replace this use of System.out by a logger.(¦µéáüÿÿÿÿ8µ„æäË1
+G	java:S106&"+Replace this use of System.out by a logger.(á¬Š¼8µ„æäË1
+G	java:S106+"+Replace this use of System.out by a logger.(Ÿã†8·„æäË1
+G	java:S106-"+Replace this use of System.out by a logger.(Ÿ–ÆÕ8·„æäË1
+L	java:S1063"+Replace this use of System.out by a logger.(ÔÛ—ıÿÿÿÿ8¹„æäË1
+G	java:S1065"+Replace this use of System.out by a logger.(çÛö¿8¹„æäË1
+F	java:S106="+Replace this use of System.out by a logger.(Ëßñ$8º„æäË1
+G	java:S106?"+Replace this use of System.out by a logger.(¸æ•²8º„æäË1
+>
+java:S3864E"!Remove this use of "Stream.peek".(ßˆ±ö8»„æäË1
+>
+java:S3864C"!Remove this use of "Stream.peek".(ßˆ±ö8»„æäË1
+G	java:S106C"+Replace this use of System.out by a logger.(ßˆ±ö8¼„æäË1
+G	java:S106E"+Replace this use of System.out by a logger.(ßˆ±ö8¼„æäË1
+G	java:S106H"+Replace this use of System.out by a logger.(ã”®8½„æäË1
+G	java:S106J"+Replace this use of System.out by a logger.(¹ì¨Ç8½„æäË1
+L	java:S106P"+Replace this use of System.out by a logger.(ºü•Ôùÿÿÿÿ8¾„æäË1
+L	java:S106Q"+Replace this use of System.out by a logger.(ñèÆıÿÿÿÿ8¾„æäË1
+L	java:S106T"+Replace this use of System.out by a logger.(Ø”öãúÿÿÿÿ8¾„æäË1
+L	java:S106Z"+Replace this use of System.out by a logger.(€Œ¸¶ûÿÿÿÿ8¿„æäË1
+L	java:S106\"+Replace this use of System.out by a logger.(ÔıÔüúÿÿÿÿ8¿„æäË1
+L	java:S106b"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8±ÌæäË1

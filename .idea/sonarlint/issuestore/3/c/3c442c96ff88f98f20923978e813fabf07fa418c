@@ -1,0 +1,33 @@
+
+r	java:S117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹§Óüøÿÿÿÿ8„„æäË1
+r	java:S117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹§Óüøÿÿÿÿ8„„æäË1
+L	java:S106"+Replace this use of System.out by a logger.(†¤Û”øÿÿÿÿ8±„æäË1
+L	java:S106"+Replace this use of System.out by a logger.(Ù›÷—ùÿÿÿÿ8³„æäË1
+L	java:S106"+Replace this use of System.out by a logger.(¤úçıÿÿÿÿ8´„æäË1
+L	java:S106!"+Replace this use of System.out by a logger.(’Öäÿÿÿÿÿ8´„æäË1
+L	java:S106'"+Replace this use of System.out by a logger.(¦µéáüÿÿÿÿ8µ„æäË1
+G	java:S106)"+Replace this use of System.out by a logger.(á¬Š¼8µ„æäË1
+G	java:S106."+Replace this use of System.out by a logger.(Ÿã†8·„æäË1
+G	java:S1060"+Replace this use of System.out by a logger.(Ÿ–ÆÕ8·„æäË1
+L	java:S1066"+Replace this use of System.out by a logger.(ÔÛ—ıÿÿÿÿ8¹„æäË1
+G	java:S1068"+Replace this use of System.out by a logger.(çÛö¿8¹„æäË1
+F	java:S106@"+Replace this use of System.out by a logger.(Ëßñ$8º„æäË1
+G	java:S106B"+Replace this use of System.out by a logger.(¸æ•²8º„æäË1
+>
+java:S3864H"!Remove this use of "Stream.peek".(ßˆ±ö8»„æäË1
+>
+java:S3864F"!Remove this use of "Stream.peek".(ßˆ±ö8»„æäË1
+G	java:S106F"+Replace this use of System.out by a logger.(ßˆ±ö8¼„æäË1
+G	java:S106H"+Replace this use of System.out by a logger.(ßˆ±ö8¼„æäË1
+G	java:S106K"+Replace this use of System.out by a logger.(ã”®8½„æäË1
+G	java:S106M"+Replace this use of System.out by a logger.(¹ì¨Ç8½„æäË1
+L	java:S106S"+Replace this use of System.out by a logger.(ºü•Ôùÿÿÿÿ8¾„æäË1
+L	java:S106T"+Replace this use of System.out by a logger.(ñèÆıÿÿÿÿ8¾„æäË1
+L	java:S106W"+Replace this use of System.out by a logger.(Ø”öãúÿÿÿÿ8¾„æäË1
+L	java:S106]"+Replace this use of System.out by a logger.(€Œ¸¶ûÿÿÿÿ8¿„æäË1
+L	java:S106_"+Replace this use of System.out by a logger.(ÔıÔüúÿÿÿÿ8¿„æäË1
+L	java:S106e"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8±ÌæäË1
+x
+java:S1128"VRemove this unused import 'com.sun.scenario.effect.impl.sw.java.JSWBlend_SRC_OUTPeer'.(ãÓôÚúÿÿÿÿ8ªØéäË1
+Q
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š8ªØéäË1
